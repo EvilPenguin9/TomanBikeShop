@@ -17,3 +17,12 @@ Finally, I visualise the data as an interactive dashboard in PowerBI. I also exp
 
 **Project Files**
 
+I am unable to upload the full "divvy-tripdata Data Warehouse version 2024-2025" file (1.13 GB) here on my GitHub due to file size limit of 25 MB. 
+
+here's a link to the dataset: (https://github.com/Gaelim/YT_bike_share)
+
+With that, I began my SQL querying and analysis.
+
+**Future Project Aim**
+
+In addition to SQL and R, I konw all litte Python. Once I improve my Python knowledge sufficiently, I aim to set up and automate where can can.
